@@ -1,0 +1,10 @@
+data/*
+.vscode
+.vscode/*
+results/*
+*.pyc
+*/*.pyc
+__pycache__
+__pycache__/*.pyc
+DomainBed/*
+dm/*

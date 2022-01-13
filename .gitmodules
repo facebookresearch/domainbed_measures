@@ -1,0 +1,3 @@
+[submodule "DomainBed"]
+	path = DomainBed
+	url = https://github.com/facebookresearch/DomainBed/
